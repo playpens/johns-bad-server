@@ -1,0 +1,14 @@
+{
+  "name": "demo-server",
+  "version": "1.0.0",
+  "description": "AWS Demo Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "john",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
