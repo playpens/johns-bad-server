@@ -1,6 +1,8 @@
 branch-defaults:
   default:
     environment: Johnsbadserver-env
+  master:
+    environment: Johnsbadserver-env
 environment-defaults:
   Johnsbadserver-env:
     branch: null
