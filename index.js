@@ -15,7 +15,7 @@ app.get('/', (req,res) => {
 
 app.post('/data', (req,res) => {
   data = req.body;
-  res.status(201).send('Okey Dokey.');
+  res.status(201).send('youybetcha');
 });
 
 app.listen(PORT, () => console.log(`Up on ${PORT}`));
